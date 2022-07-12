@@ -9,7 +9,7 @@ headers = {
                   'Chrome/42.0.2311.135 Safari/537.36 Edge/12.246'}
 
 # Change this with your url
-url = "https://github.com/cristicretu"
+url = "https://github.com/rohzzn"
 
 # Get the page
 req = requests.get(url, headers=headers)
