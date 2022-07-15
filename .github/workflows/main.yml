@@ -37,4 +37,4 @@ jobs:
       uses: techulus/push-github-action@1.0.0
       env:
         API_KEY: ${{ secrets.PUSH_API_KEY }}
-        MESSAGE: "You haven't commited today. Don't lose your commit streak 🚀"
+        MESSAGE: "Don't lose your commit streak 🔥 🚀"
